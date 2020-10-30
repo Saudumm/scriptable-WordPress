@@ -6,8 +6,11 @@ This script should work for most WordPress sites with a standard REST API.
 # Changelog
 
 v1.0 - Initial Upload
+
 v1.1 - fixed local date and time display, should now display properly according to your region
+
 v1.2 - widget is now more customizable via parameters, even with custom background images! (see code comments for explanation)
+
 v1.3 - fixed errors regarding urls with special characters
 
 ## Prerequisites:
@@ -36,7 +39,9 @@ set on of the following parameters:
 ## Examples:
 ![](https://github.com/Saudumm/scriptable-WordPress/blob/main/widget-examples.PNG)
 
-top left: medium widget with standard parameter "small"
+top left: medium widget with standard parameter "small" and custom background image
+
+middle left: medium widget with standard parameter "small"
 
 bottom left: smal widget with standard parameter "small"
 
