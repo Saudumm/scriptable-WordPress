@@ -3,6 +3,13 @@ iOS Scriptable Widget for WordPress Sites
 
 This script should work for most WordPress sites with a standard REST API.
 
+# Changelog
+
+v1.0 - Initial Upload
+v1.1 - fixed local date and time display, should now display properly according to your region
+v1.2 - widget is now more customizable via parameters, even with custom background images! (see code comments for explanation)
+v1.3 - fixed errors regarding urls with special characters
+
 ## Prerequisites:
 
 Scriptable for iOS: [Link](https://apps.apple.com/de/app/scriptable/id1405459188)
@@ -16,7 +23,7 @@ Scriptable for iOS: [Link](https://apps.apple.com/de/app/scriptable/id1405459188
 
 You can change the size layout of the widget. Just long press on the widget and choose "edit widget".
 
-![](https://github.com/Saudumm/scriptable-WordPress/blob/main/IMG_4940.jpg)
+![](https://github.com/Saudumm/scriptable-WordPress/blob/main/widget-config.PNG)
 
 set on of the following parameters:
 - **small** (standard) for small or medium widgets
@@ -27,7 +34,7 @@ set on of the following parameters:
   - this layout shows the five latest posts
 
 ## Examples:
-![](https://github.com/Saudumm/scriptable-WordPress/blob/main/IMG_4938.jpeg)
+![](https://github.com/Saudumm/scriptable-WordPress/blob/main/widget-examples.PNG)
 
 top left: medium widget with standard parameter "small"
 
