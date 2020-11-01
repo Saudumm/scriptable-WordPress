@@ -14,6 +14,12 @@ This script should work for most WordPress sites with a standard REST API.
 - v1.5.1 - fix numeric display of date and time
 - v1.5.2 - added twitter handle
 
+---
+
+_If someone would like to buy me a coffee 😊: https://ko-fi.com/saudumm_
+
+---
+
 ## Requirements:
 
 Scriptable for iOS: [Link](https://apps.apple.com/de/app/scriptable/id1405459188)
