@@ -12,6 +12,7 @@ This script should work for most WordPress sites with a standard REST API.
 - v1.4 - custom widget backgrounds on every widget size and config
 - v1.5 - massive code cleanup, new descriptions for widget customization
 - v1.5.1 - fix numeric display of date and time
+- v1.5.2 - added twitter handle
 
 ## Requirements:
 
