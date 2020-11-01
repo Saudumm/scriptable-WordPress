@@ -1,7 +1,7 @@
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
 // icon-color: blue; icon-glyph: file-alt;
-// v1.5.1 coded by Saudumm
+// v1.5.2 coded by Saudumm (https://twitter.com/saudumm)
 // GitHub Gist: https://gist.github.com/Saudumm/eb9b04e556a874b508d1aab21aebb545
 
 /*  WIDGET PARAMETERS: you can long press on the widget on your homescreen and edit parameters
@@ -237,7 +237,7 @@ async function getData() {
 		
 		if (NUMBER_OF_POSTS >= 1) {
 			arrNewsDateTimes[0] = loadedJSON[0].date;
-
+			
 			arrNewsTitles[0] = loadedJSON[0].title.rendered;
 			arrNewsTitles[0] = formatHeadline(arrNewsTitles[0]);
 			arrNewsURLs[0] = loadedJSON[0].guid.rendered;
@@ -259,7 +259,7 @@ async function getData() {
 				let i;
 				for (i = 1; i < NUMBER_OF_POSTS; i++) {
 					arrNewsDateTimes[i] = loadedJSON[i].date;
-
+					
 					arrNewsTitles[i] = loadedJSON[i].title.rendered;
 					arrNewsTitles[i] = formatHeadline(arrNewsTitles[i]);
 					
