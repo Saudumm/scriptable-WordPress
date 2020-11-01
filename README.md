@@ -41,14 +41,9 @@ You can change the layout and look of the widget. Just long press on the widget 
 
 ![widget-examples](https://user-images.githubusercontent.com/810494/97783785-3ac78580-1b9a-11eb-93f2-265264eb11f8.jpg)
 
-top left: small widget with standard parameters
-
-top middle:  small widget with standard parameters and a custom background image
-
-top right: medium widget with parameter "medium"
-
-middle left: medium widget with standard parameter "small"
-
-bottom left: medium widget with parameter "medium" and a custom background image
-
-bottom right: large widget with parameter "large" and a custom background image
+- top left: small widget with standard parameters
+- top middle:  small widget with standard parameters and a custom background image
+- top right: medium widget with parameter "medium"
+- middle left: medium widget with standard parameter "small"
+- bottom left: medium widget with parameter "medium" and a custom background image
+- bottom right: large widget with parameter "large" and a custom background image
