@@ -5,13 +5,13 @@ This script should work for most WordPress sites with a standard REST API.
 
 # Changelog
 
-v1.0 - Initial Upload
-v1.1 - fixed local date and time display, should now display properly according to your region
-v1.2 - widget is now more customizable via parameters, even with custom background images! (see code comments for explanation)
-v1.3 - fixed errors regarding urls with special characters
-v1.4 - custom widget backgrounds on every widget size and config
-v1.5 - massive code cleanup, new descriptions for widget customization
-v1.5.1 - fix numeric display of date and time
+- v1.0 - Initial Upload
+- v1.1 - fixed local date and time display, should now display properly according to your region
+- v1.2 - widget is now more customizable via parameters, even with custom background images! (see code comments for explanation)
+- v1.3 - fixed errors regarding urls with special characters
+- v1.4 - custom widget backgrounds on every widget size and config
+- v1.5 - massive code cleanup, new descriptions for widget customization
+- v1.5.1 - fix numeric display of date and time
 
 ## Requirements:
 
