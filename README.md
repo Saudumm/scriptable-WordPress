@@ -3,6 +3,10 @@ iOS Scriptable Widget for WordPress Sites
 
 This script should work for most WordPress sites with a standard REST API.
 
+## Requirements:
+
+Scriptable for iOS: [Link](https://apps.apple.com/de/app/scriptable/id1405459188)
+
 # Changelog
 
 - v1.0 - Initial Upload
@@ -13,16 +17,14 @@ This script should work for most WordPress sites with a standard REST API.
 - v1.5 - massive code cleanup, new descriptions for widget customization
 - v1.5.1 - fix numeric display of date and time
 - v1.5.2 - added twitter handle
+- v1.6.0 - added blur effect option for background images (and post images in small widgets)
+- v1.6.1 - fixed post date/time display
 
 ---
 
 _If someone would like to buy me a coffee 😊: https://ko-fi.com/saudumm_
 
 ---
-
-## Requirements:
-
-Scriptable for iOS: [Link](https://apps.apple.com/de/app/scriptable/id1405459188)
 
 ## Config:
 
@@ -54,3 +56,21 @@ You can change the layout and look of the widget. Just long press on the widget 
 - middle left: medium widget with standard parameter "small"
 - bottom left: medium widget with parameter "medium" and a custom background image
 - bottom right: large widget with parameter "large" and a custom background image
+
+## WordPress Websites:
+
+Here are a few suggestions:
+
+### Gaming:
+- PlayStation Blog: http://blog.playstation.com
+- PlayStation Blog Germany: http://blog.de.playstation.com
+- Xbox Wire US: https://news.xbox.com/en-us
+- Xbox Wire Germany: https://news.xbox.com/de-de
+- Dualshockers: https://www.dualshockers.com
+
+### Tech: 
+- 9to5Mac: https://9to5mac.com
+- 9to5Google: https://9to5google.com
+- TechCrunch: https://techcrunch.com
+- VentureBeat: https://venturebeat.com
+- Wired: https://wired.com
