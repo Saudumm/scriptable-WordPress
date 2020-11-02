@@ -1,7 +1,7 @@
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
 // icon-color: blue; icon-glyph: file-alt;
-// v1.6.0 coded by Saudumm (https://twitter.com/saudumm)
+// v1.6.1 coded by Saudumm (https://twitter.com/saudumm)
 // GitHub: https://github.com/Saudumm/scriptable-WordPress
 // GitHub Gist: https://gist.github.com/Saudumm/eb9b04e556a874b508d1aab21aebb545
 
