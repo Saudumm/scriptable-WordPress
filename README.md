@@ -1,3 +1,7 @@
+# THIS SCRIPT WON'T BE SUPPORTED ANY LONGER
+# PLEASE CHECK OUT THE NEW SCRIPT: https://github.com/Saudumm/scriptable-News-Widget
+
+# Old text:
 # scriptable-WordPress
 iOS Scriptable Widget for WordPress Sites
 
