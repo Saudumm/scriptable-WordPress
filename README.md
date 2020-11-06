@@ -1,8 +1,9 @@
 # THIS SCRIPT WON'T BE SUPPORTED ANY LONGER
-# PLEASE CHECK OUT THE NEW SCRIPT: https://github.com/Saudumm/scriptable-News-Widget
+# PLEASE CHECK OUT THE NEW SCRIPT:
+# https://github.com/Saudumm/scriptable-News-Widget
 
 # Old text:
-# scriptable-WordPress
+## scriptable-WordPress
 iOS Scriptable Widget for WordPress Sites
 
 This script should work for most WordPress sites with a standard REST API.
@@ -11,7 +12,7 @@ This script should work for most WordPress sites with a standard REST API.
 
 Scriptable for iOS: [Link](https://apps.apple.com/de/app/scriptable/id1405459188)
 
-# Changelog
+## Changelog
 
 - v1.0 - Initial Upload
 - v1.1 - fixed local date and time display, should now display properly according to your region
